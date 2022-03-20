@@ -1,3 +1,16 @@
+//12)	Write a modular c program to perform the following:
+
+ a) Read 1D array
+
+ b) Display 1D array
+ c) To find the maximum digit in every element of an array and find sum of all maximum digits.
+Write a suitable main function to call the above user defined functions
+        Example: 
+	Input: arr[3] = {132,458,732}
+	Output: Maximum digit in a[0]=3
+	Maximum digit in a[1]=8
+	Maximum digit in a[2]=7
+	Sum=3+8+7=18
 #include<stdio.h>
 void read(int n,int a[])
 {
