@@ -1,3 +1,8 @@
+//
+
+16)	Write a modular C program to reverse an array.
+
+
 #include<stdio.h>
 #include<stdlib.h>
 
