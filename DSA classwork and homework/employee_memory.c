@@ -1,4 +1,4 @@
-
+// employee or student details with structures and pointers
 #include<stdio.h>
 #include<stdlib.h>
 #include<string.h>
