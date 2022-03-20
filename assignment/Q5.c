@@ -1,3 +1,13 @@
+//5)	KLE Technological University is a well know university for its academic excellence and Innovations. It provides a well structured LIBRARY facility for its students. Students can avail book facility of the LIBRARY. A student can take a book for a period of maximum of 15 days.  If returned after the deadline, a student has to pay penalty of Rs 2.0/day.
+
+
+
+In the month of January 2021, there are N students who returned the book late. For each student, read the number of days after the deadline, he/she is returning the book. calculate the followings.
+
+i)	Calculate the average penalty collected.
+ii)	Calculate the Maximum penalty paid by a student.
+iii)	Calculate the minimum penalty paid by a student.
+iv)	Calculate the total penalty collected.
 #include<stdio.h>
 #include<stdlib.h>
 
