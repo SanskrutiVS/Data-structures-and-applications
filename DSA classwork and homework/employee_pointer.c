@@ -1,3 +1,6 @@
+//employee details
+
+
 #include<stdio.h>
 struct employee
 {
