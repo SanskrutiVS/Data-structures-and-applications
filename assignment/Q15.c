@@ -1,3 +1,9 @@
+//15)	Calculate the minimum number of platforms required for a railway station so that no train waits. Given arrival and departure of all trains (in 24Hr format) in separate arrays.
+
+ 	  Ex: arr[] = {9.00, 9.40, 9.50, 11.00, 15.00, 18.00}
+
+		dep[] = {9:10, 12.00, 11.20, 11.30, 19.00, 20.00}
+
 #include <stdio.h>
 #include <stdlib.h>
 void read_arr(int arr[],int n)
