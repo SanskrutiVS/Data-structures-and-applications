@@ -1,3 +1,14 @@
+//
+
+11)	Godrej constructed a new Apartment with N flats, in Hubballi. At the end of each month the Secretary of the apartment, collects the total units of electricity consumed by each flat.  As per the table given below, help Secretary to calculate the total bill to be paid by each flat.
+
+
+
+Units Consumed	Charges apply
+0-100	         1.5 Rs/Unit
+101-250	          2.3 Rs/Unit, for above 100 units
+251-600.   	4.0 Rs/Unit, for above 250 units
+Above 600	5.5 Rs/Unit, for above 600 units
 #include<stdio.h>
 #include<stdlib.h>
 
