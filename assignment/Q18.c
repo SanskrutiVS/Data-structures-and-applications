@@ -1,3 +1,6 @@
+//18)	Read an array of numbers with size n and another number m. then for every element print the sum of m next numbers in sequence from array.
+
+
 #include <stdio.h>
 
 //#include <math.h>
