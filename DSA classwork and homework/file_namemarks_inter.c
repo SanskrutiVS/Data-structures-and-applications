@@ -1,3 +1,4 @@
+//interchange of fscanf and fprintf
 // read name and marks of n students from user and store them in a file
 #include<stdio.h>
 
