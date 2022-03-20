@@ -1,3 +1,7 @@
+//13)	Write a modular C program to read a list of n random numbers and check whether each element of an array is perfect number or not.
+
+
+
 #include<stdio.h>
 
 void ReadArray(int a[25], int n)
