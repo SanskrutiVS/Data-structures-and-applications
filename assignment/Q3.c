@@ -1,3 +1,11 @@
+//3)	There is a company NI Infotech which has N number of employees working in it. NI Infotech gives bonus to its employees according to the following terms and conditions.
+
+S.No	Experience (years)	Basic Salary	Bonus  applicable
+
+1	5-7	10600	10%  of basic
+2	8-10	21300	20% of basic
+3	10>	32100	30% of basic
+
 #include<stdio.h>
 #include<stdlib.h>
 
