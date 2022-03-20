@@ -1,3 +1,12 @@
+//
+
+9)	C programming for problem solving is a course offered to first semester students of KLE Technological University. The course conducts POST TESTs to students for a maximum of 10 marks. Once all the POST TESTS are conducted, the marks scored by each student will be announced. Help the course teacher to do the followings.
+
+i)	How many students scored EVEN marks?
+
+ii)	How many students scored ODD marks?
+iii)	Find, if any student scored 100% marks? Display appropriate message.
+iv)	How many students scored 100% marks?
 #include<stdio.h>
 #include<stdlib.h>
 
