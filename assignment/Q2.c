@@ -1,3 +1,5 @@
+// 2)	Read an array of n numbers. Input the number from keyboard (consider it as a key number) and check whether the key number is present in the array or not, also display the index at which the key number is present.
+
 #include <stdio.h>
 #include <stdlib.h>
 
