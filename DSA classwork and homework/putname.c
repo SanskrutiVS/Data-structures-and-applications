@@ -1,3 +1,5 @@
+//putname in file
+
 #include<stdio.h>
 #include<stdlib.h>
  struct student
