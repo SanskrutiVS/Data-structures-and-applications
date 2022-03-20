@@ -1,3 +1,5 @@
+//operations on 2×2 matrix using singly linked list
+
 #include<stdio.h>
 #include<stdlib.h>
 struct Node
