@@ -1,3 +1,8 @@
+//4)	In a class there are 10 students. Course teacher of “DS with Applications ” wants to calculate the class average and also count total number of students who scored above and below class average. Most of the students IQ is very high. Help course teacher to solve the above problem. 
+
+
+
+
 #include<stdio.h>
 #include<stdlib.h>
 
