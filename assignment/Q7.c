@@ -1,3 +1,10 @@
+//7)	Income tax department will collect the tax from the tax payers all around the Nation. For the financial year 2019-20, assume that the Income tax department has collected the tax from N number of tax payers. Help the Income tax department to do the followings.
+
+ 
+
+i)	Calculate the total number of tax payers who paid tax more than 2.5lakhs.
+ii)	Calculate the total number of tax payers who paid tax between 50000 rupees to 150000rupees.
+iii)	Calculated the average tax collected.
 #include<stdio.h>
 #include<stdlib.h>
 
