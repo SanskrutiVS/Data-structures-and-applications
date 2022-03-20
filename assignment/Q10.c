@@ -1,3 +1,9 @@
+//
+10)	Ashish is studying in 3RD standard in KENDRIYA VIDYALA, Hubballi.  He is writing the Mathematics Test in the school. 
+ 
+One of the questions was to find the PRIME NUMBERS among a set of N numbers. Help Ashish to find the PRIME numbers.
+
+
 #include<stdio.h>
 #include<stdlib.h>
 
