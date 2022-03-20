@@ -1,3 +1,8 @@
+//1)	Read an array of numbers with size n and count frequency of positive/negative numbers
+
+
+
+
 #include<stdio.h>
 #include<stdlib.h>
 
