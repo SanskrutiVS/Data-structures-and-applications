@@ -1,3 +1,7 @@
+// find area of circle using structures with pointers
+
+
+
 #include<stdio.h>
 #include<stdlib.h>
 struct area
