@@ -1,3 +1,5 @@
+// exchange the content of 2 sets
+
 #include<stdio.h>
 #include<stdlib.h>
 
