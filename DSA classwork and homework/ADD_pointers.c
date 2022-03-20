@@ -1,3 +1,6 @@
+// add two numbers using pointers
+
+
 #include<stdio.h>
 #include<stdlib.h>
 struct addition
